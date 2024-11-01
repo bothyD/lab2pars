@@ -1,0 +1,378 @@
+[
+    {
+        "name": "Артистка/артист",
+        "salaryzMin": "100000",
+        "salaryzMax": "200000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108196185?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Специалист чат-поддержки",
+        "salaryzMin": "53800",
+        "salaryzMax": "70500",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108967216?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Помощник руководителя по маркетингу",
+        "salaryzMin": "30000",
+        "salaryzMax": "80000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108581595?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Менеджер-администратор в студию растяжки NUGA",
+        "salaryzMin": "30000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108526685?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Администратор-менеджер",
+        "salaryzMin": "45000",
+        "salaryzMax": "60000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107967119?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Администратор/менеджер в студию танцев",
+        "salaryzMin": "30000",
+        "salaryzMax": "50000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108752201?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Тренер групповых программ",
+        "salaryzMin": "40000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108436350?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Хореограф",
+        "salaryzMin": "25000",
+        "salaryzMax": "70000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107902609?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Руководитель блока нормирования и планирования",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/105480008?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Руководитель студии танцев (хореограф)",
+        "salaryzMin": "28000",
+        "salaryzMax": "30000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108708787?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Менеджер по работе с клиентами",
+        "salaryzMin": "50000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107932735?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Управляющий в ночной бар",
+        "salaryzMin": "160000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107827975?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Танцовщица/Танцовщик",
+        "salaryzMin": "150000",
+        "salaryzMax": "200000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/106177958?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Специалист по раннему развитию детей",
+        "salaryzMin": "25000",
+        "salaryzMax": "40000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/109212122?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Менеджер смены в \"NeBar\"",
+        "salaryzMin": "70000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108306633?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Руководитель студии танцев (хореограф)",
+        "salaryzMin": "28000",
+        "salaryzMax": "30000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108381509?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Менеджер телефонных продаж / Оператор call-центра",
+        "salaryzMin": "10000",
+        "salaryzMax": "20000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108752383?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Педагог-хореограф/хореограф/преподаватель танцев",
+        "salaryzMin": "38000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108636757?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Аккаунт-менеджер в IT-компанию",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108519904?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Музыкальный руководитель в детский сад",
+        "salaryzMin": "15000",
+        "salaryzMax": "-",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108950682?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Тренер по степ-аэробике",
+        "salaryzMin": "15000",
+        "salaryzMax": "35000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108916119?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий бухгалтер по банковским операциям",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107483395?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Начинающий специалист технической поддержки",
+        "salaryzMin": "48800",
+        "salaryzMax": "64300",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/106723912?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Начинающий специалист технической поддержки (удаленно)",
+        "salaryzMin": "48800",
+        "salaryzMax": "64300",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/98251035?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий специалист по подбору и оценке персонала",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/103145390?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер-конструктор/инженер 1 категории в строительный отдел",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/100478405?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Администратор",
+        "salaryzMin": "15000",
+        "salaryzMax": "25000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108205750?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Главный специалист в строительный отдел (сектор обследования зданий и сооружений)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107515071?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер-проектировщик/инженер-проектировщик 1-2 категории (гидротехник)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/92927530?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер/руководитель группы отдела перспективного развития",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/100478637?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер электротехнического отдела (СОТИАССО, АСУТП ЭТО, АИИСКУЭ)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/98611673?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер/инженер 1,2 категории сектора газоснабжения",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/100478854?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер/Инженер 1,2,3 категории по электротехнической части",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/100478720?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Главный специалист (проектирование ВК)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/105090165?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер/инженер 1 категории (отдел автоматизированных систем управления)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/92927428?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер-проектировщик по системам водопровода и канализации",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/104561023?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Инженер-проектировщик вентиляции и отопления",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/104560774?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер/инженер тепломеханического отдела",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/92926926?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Артистка/артист шоу-балета в бар Sova bien (левый берег)",
+        "salaryzMin": "80000",
+        "salaryzMax": "200000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108541583?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Специалист технической поддержки",
+        "salaryzMin": "55000",
+        "salaryzMax": "73000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108958630?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер тепломеханического отдела (сектора проектирования систем водоподготовки)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/93337965?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий инженер проектировщик/Инженер 1 категории (сектор проектирования РЗиА)",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/95871687?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Начинающий специалист технической поддержки",
+        "salaryzMin": "48800",
+        "salaryzMax": "64300",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/109135829?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Ведущий юрисконсульт",
+        "salaryzMin": "-",
+        "salaryzMax": "-",
+        "valuta": "-",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/107811495?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Артистка/артист шоу-балета в бар Sova bien (правый берег)",
+        "salaryzMin": "80000",
+        "salaryzMax": "200000",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108781104?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Специалист по клиентским обращениям",
+        "salaryzMin": "44200",
+        "salaryzMax": "58300",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/108961129?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    },
+    {
+        "name": "Начинающий специалист технической поддержки",
+        "salaryzMin": "48800",
+        "salaryzMax": "64300",
+        "valuta": "₽",
+        "refVacancy": "https://novosibirsk.hh.ru/vacancy/109043800?query=%D1%82%D0%B0%D0%BD%D1%86%D1%8B&hhtmFrom=vacancy_search_list",
+        "refSite": "https://novosibirsk.hh.ru"
+    }
+]
