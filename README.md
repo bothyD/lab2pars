@@ -5,5 +5,5 @@
 *Чтобы запустить проект, выполните следующие шаги:*<br><br>
 **1**. Создайте файл `.env`:  **python -m venv .env**.<br>
 **2**. Активируйте виртуальное окружение: **.venv\Scripts\activate**.<br>
-**3**. Установите зависимости: **pip install -r requirements.txt**.<br>
+**3**. Установите зависимости: **pip install -r requirements.txt**.(записать зависимости: pip freeze > requirements.txt)<br>
 **4**. Запустите скрипт: **python pars.py**.<br>
